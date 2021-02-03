@@ -1,0 +1,28 @@
+/* font-family: 'Lato', sans-serif; */
+html{
+    border-bottom: 10px solid #bdc3c7;
+    border-top: 10px solid #bdc3c7;
+    border-right: 10px solid #bdc3c7;
+    border-left: 10px solid #bdc3c7;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+h2{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    letter-spacing: 3.2px;
+    font-size: 48px;
+    color: #3d3d3d;
+    text-align: left;
+
+}
+
+p{
+    border-bottom: 8px solid #bdc3c7;
+    margin: 0;
+
+
+
+
+}
